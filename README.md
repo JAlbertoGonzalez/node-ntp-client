@@ -1,4 +1,4 @@
-# ntp-client [![Build Status](https://secure.travis-ci.org/moonpyk/node-ntp-client.png?branch=master)](http://travis-ci.org/moonpyk/node-ntp-client)
+# ntp-client [![Build Status](https://travis-ci.com/JAlbertoGonzalez/node-ntp-client.svg?branch=master)](https://travis-ci.com/JAlbertoGonzalez/node-ntp-client)
 
 Pure Javascript implementation of the NTP Client Protocol
 
